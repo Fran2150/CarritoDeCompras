@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Aug 30 21:52:00 CST 2026
+comment0.target=Producto
+comment1.params=producto cantidad precio codigo
+comment1.target=Producto(java.lang.String, int, double, java.lang.String)
+comment2.params=stock
+comment2.target=boolean vercant(int)
+comment3.target=void verproducto()
+numComments=4

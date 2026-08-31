@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Aug 30 23:11:02 CST 2026
+comment0.target=Usuario
+comment1.params=nombre contrase\u00F1a
+comment1.target=Usuario(java.lang.String, java.lang.String)
+comment2.params=Pcontrase\u00F1a
+comment2.target=boolean verificarUsuario(java.lang.String)
+numComments=3

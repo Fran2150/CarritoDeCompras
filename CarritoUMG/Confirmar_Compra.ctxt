@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Aug 30 21:55:24 CST 2026
+comment0.target=Confirmar_Compra
+comment1.params=listP cantC
+comment1.target=Confirmar_Compra(Producto, int)
+comment2.target=double cantFinal()
+comment3.target=void mostrarcompra()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Aug 30 22:17:44 CST 2026
+comment0.target=Carrito
+comment1.target=Carrito()
+comment2.target=java.util.List getLstDetalle()
+comment3.params=lstDetalle
+comment3.target=void setLstDetalle(java.util.List)
+comment4.params=intCantidad objproducto
+comment4.target=boolean agregarCarrito(int, Producto)
+numComments=5
