@@ -1,0 +1,4 @@
+C:\Users\PORTATIL MF\source\repos\Logica\Producto\Producto\obj\Debug\net10.0\Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PORTATIL MF\source\repos\Logica\Producto\Producto\obj\Debug\net10.0\Producto.AssemblyInfoInputs.cache
+C:\Users\PORTATIL MF\source\repos\Logica\Producto\Producto\obj\Debug\net10.0\Producto.AssemblyInfo.cs
+C:\Users\PORTATIL MF\source\repos\Logica\Producto\Producto\obj\Debug\net10.0\Producto.csproj.CoreCompileInputs.cache
